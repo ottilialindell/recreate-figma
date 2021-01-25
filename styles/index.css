@@ -1,13 +1,93 @@
+header {
+    background-color: #FBD4C9;
+}
+
 .logo {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    line-height: 48px;
+    font-size: 18px;
     margin-top: 40px;
     margin-left: 70px;
     color: #35281E;
 }
+
 .logo-dot {
     color: #fdf1ed;
+}
+
+.left {
+    max-width: 960px;
+    width: 100%;
+    height: 1080px;
+    background: #FBD4C9;
+}
+
+.main-title {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 308px;
+    margin-left: 110px;
+
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 4px;
+    color: #422C25; 
+}
+
+.main-info {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 110px;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: #5F453E;
+}
+
+.main-btn {
+    width: 150px;
+    height: 35px;
+    margin-top: 40px;
+    margin-left: 110px;
+    background-color: #5F453E;
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    color: #fdf1ed;
+    border: none;
+}
+
+.citat {
+    max-width: 630px;
+    width: 100%;
+    margin-top: 195px;
+    margin-left: 110px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #422C25;
+}
+
+img {
+    max-width: 960px;
+    width: 100%;
+    height: 1080px;
+    left: 960px;
+    top: 0px;
+}
+
+section {
+    display: inline-block;
 }
