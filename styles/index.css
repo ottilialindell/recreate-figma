@@ -1,0 +1,13 @@
+.logo {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 48px;
+    margin-top: 40px;
+    margin-left: 70px;
+    color: #35281E;
+}
+.logo-dot {
+    color: #fdf1ed;
+}
